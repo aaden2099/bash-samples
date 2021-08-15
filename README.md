@@ -5,10 +5,10 @@ Here you will find two sample bash scripts that I've written to automate tasks f
 ### setup.sh
 
 1. Detects the operating system that the user is using so that corresponding commands can be used based on the OS in use:
-  - Linux environment
-  - Mac environment
-  - Linux emulation environment for Windows
-  - Standard 32-bit and 64-bit versions of Windows
+   - Linux environment
+   - Mac environment
+   - Linux emulation environment for Windows
+   - Standard 32-bit and 64-bit versions of Windows
 2. Checks installed version of Python for debugging purposes
 3. Creates and activates a Python 3 virtual environment.
 4. Checks the install path for python
@@ -19,10 +19,10 @@ Here you will find two sample bash scripts that I've written to automate tasks f
 ### start.sh
 1. Checks installed version of Python for debugging purposes
 2. Detects the operating system that the user is using so that corresponding commands can be used based on the OS in use:
-  - Linux environment
-  - Mac environment
-  - Linux emulation environment for Windows
-  - Standard 32-bit and 64-bit versions of Windows
+   - Linux environment
+   - Mac environment
+   - Linux emulation environment for Windows
+   - Standard 32-bit and 64-bit versions of Windows
 3. Creates and activates a Python 3 virtual environment.
 4. Checks the install path for python.
 5. Formats the codebase using Black.
